@@ -10,5 +10,3 @@ OpenAI's "Integer multiplication below n log n" (open problem #109).
 - Earlier work in the same race: cross-copy hosting (#448, #480, #494, under review),
   decoder rigidity checks, and a set of exact negative results on delivery sharing
   and bit-side entrances.
-
-Work done with Claude Code assistance.
